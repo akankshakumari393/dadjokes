@@ -8,7 +8,25 @@ go get github.com/example/dadjoke
 ```
 
 ```
-dadjokes --help
+$dadjokes --help
+Dadjoke CLI is a tool that gives you a random dad joke
+
+Usage:
+  dadjokes [flags]
+  dadjokes [command]
+
+Available Commands:
+  completion  Generate the autocompletion script for the specified shell
+  help        Help about any command
+  random      Get a random dad joke
+
+Flags:
+      --config string   config file (default is $HOME/.dadjokes.yaml)
+  -h, --help            help for dadjokes
+  -t, --toggle          Help message for toggle
+
+Use "dadjokes [command] --help" for more information about a command.
+
 ```
 
 ## With this, we learned
