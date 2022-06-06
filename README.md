@@ -4,7 +4,7 @@ This CLI tool provides random jokes using this API https://icanhazdadjoke.com/ap
 
 ## To use the tool 
 ```
-go get github.com/example/dadjoke
+go get github.com/akankshakumari393/dadjokes
 ```
 
 ```
